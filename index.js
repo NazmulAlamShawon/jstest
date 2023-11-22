@@ -1,8 +1,8 @@
 const x = 10;
 
-if(x < 10){
-    console.log(` less then ${x}`);
+if(x===10){
+    console.log("equal")
 }
 else{
-    console.log(` more then ${x}`);
+    console.log("notEqual")
 }
