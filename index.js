@@ -1,2 +1,8 @@
 const x = 10;
-console.log(x)
+
+if(x < 10){
+    console.log(` less then ${x}`);
+}
+else{
+    console.log(` more then ${x}`);
+}
