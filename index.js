@@ -6,3 +6,11 @@ var x = 15;
 let x = 10
 // es6 modern variables inmutable variables
 const x = 15;
+
+
+// let and const are block scoped
+{
+    let x = 10;
+    console.log(x);
+}
+console.log(x);
