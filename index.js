@@ -32,6 +32,10 @@ while (condition) {
 for (let i = 0; i < 10; i++) {
     
 }
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
 // add comit
 
 // test another site
