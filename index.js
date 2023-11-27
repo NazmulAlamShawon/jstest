@@ -28,6 +28,10 @@ if (condition) {
 while (condition) {
     
 }
+
+for (let i = 0; i < 10; i++) {
+    
+}
 // add comit
 
 // test another site
