@@ -43,6 +43,8 @@ console.log(z)
 let x = a - b
 console.log(x)
 console.log(z)
+let y = a * b
+console.log(y)
 // add comit
 
 // test another site
