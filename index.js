@@ -39,6 +39,10 @@ for (let i = 0; i < 10; i++) {
 
 let z = a + block
 console.log(z)
+
+let x = a - b
+console.log(x)
+console.log(z)
 // add comit
 
 // test another site
